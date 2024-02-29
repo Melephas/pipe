@@ -1,5 +1,5 @@
 {
-  "name": "pipe",
+  "name": "@melephas/pipe",
   "version": "1.0.1",
   "description": "Chain function calls easily",
   "main": "src/pipe.js",
