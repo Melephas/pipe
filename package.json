@@ -1,10 +1,18 @@
 {
   "name": "pipe",
-  "version": "0.1.0",
-  "description": "A simple pipe function library",
-  "main": "pipe.js",
-  "type": "module",
-  "author": "Melphas",
-  "license": "BSD-3-Clause",
-  "dependencies": {}
+  "version": "1.0.0",
+  "description": "A simple library for piping chained function calls",
+  "main": "src/pipe.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "bun test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "author": "melephas",
+  "license": "BSD-3-Clause"
 }
