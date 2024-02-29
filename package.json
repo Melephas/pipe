@@ -1,0 +1,10 @@
+{
+  "name": "pipe",
+  "version": "0.1.0",
+  "description": "A simple pipe function library",
+  "main": "pipe.js",
+  "type": "module",
+  "author": "Melphas",
+  "license": "BSD-3-Clause",
+  "dependencies": {}
+}
