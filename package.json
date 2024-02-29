@@ -1,7 +1,7 @@
 {
   "name": "pipe",
-  "version": "1.0.0",
-  "description": "A simple library for piping chained function calls",
+  "version": "1.0.1",
+  "description": "Chain function calls easily",
   "main": "src/pipe.js",
   "directories": {
     "test": "test"
